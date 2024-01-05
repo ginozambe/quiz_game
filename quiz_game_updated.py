@@ -2,9 +2,7 @@
 """
 Project 1: Python Quiz Game:
 This implementation provides a basic interface for adding new questions to the quiz. 
-The new questions added during runtime will be lost when the program ends 
-unless a way to save and load questions from a persistent storage e.g. file or a database
-is implemented.
+The new questions added during runtime will be lost when the program ends.
 """
 
 import time
