@@ -203,7 +203,7 @@ def play_quiz():
     incorrect_answers = []
     question_number = 1
     time_start = time.time()
-    print("\nWelcome to the Python Quiz Game!\n")
+    print("\nWelcome to the Quiz Game!\n")
     # loop through the questions
     for question in questions:
         valid_input = False
